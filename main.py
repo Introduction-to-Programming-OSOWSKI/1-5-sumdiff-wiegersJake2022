@@ -1,3 +1,2 @@
 def sumDiff(x,y):
-    return x + y -x - y 
-sumDiff(10,5)    
+    return (x + y) -(x - y) 
